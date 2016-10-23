@@ -1,11 +1,11 @@
-#THIS PROGRAM ADDS TWO NUMBERS
+#THIS PROGRAM ADDS THREE NUMBERS
 
-# input two variables a and b
+# input three variables a, b, and c
 a = 4
 b = 7
-
-## calculcate the sum of a and b
-result = a + b
+c = 3
+## calculcate the sum of a, b and c 
+result = a + b + c
 
 ##display the result
 print(result)
